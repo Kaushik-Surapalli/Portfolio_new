@@ -1,0 +1,200 @@
+.oh{
+    background-color: black;
+}
+.first {
+   /* border: 8px solid;
+    border-color: blue ;
+    background-image: url("https://shorturl.at/chPWY");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-color: black;
+}
+
+.license{
+    color: white;
+}
+
+.first1{
+    color: white;
+}
+.first2{
+    color: rgb(255, 0, 0);
+}
+.class1{
+    background-color: black;
+}
+.second {
+    color: rgb(20, 220, 63);
+
+   /* border-color: bisque; 
+    background-color: black;*/
+
+}
+.third{
+    color: blueviolet;
+    background-color: lightpink;
+    padding: 13px;
+    margin: 15px;
+    border: 10px solid brown;
+}
+.ok{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    padding: 1%;
+}
+
+.ok1{
+    text-decoration: none;
+    color: white;
+    padding-inline-start: 20px;
+}
+.ok0{
+    background-color: black;
+}
+.yes{
+    align-items: center;
+    /*width: fit-content*/
+    appearance: none;
+    width: 50%;
+    border:0;
+    font-family: inherit;
+    padding:16px 12px 0px 12px;
+    height:56px;
+    font-size: 16px;
+    font-weight:400;
+    /*background: rgba($dark, .02);
+    box-shadow: inset 0 -1px 0 rgba($dark, .3)
+    color: $dark;*/
+    transition:0.6s;
+    background: scroll;
+    color: white;
+}
+.yes0{
+    text-align: center;
+    color: white;
+    font-style: normal;
+}
+
+.yes9{
+    background-color: #4CAF50;
+    border:2px solid #4CAF50; 
+    color: white;
+    padding: 10px 20px;
+    border-radius:5px;
+    font-size:16px;
+    cursor: pointer;
+
+}
+.yes9:hover{
+    background: blue;
+}
+.no{
+    color: chartreuse;
+    text-align: center;
+
+
+}
+.yes2{
+    padding-left: 200px;
+    color: white;
+}
+
+.yes4{
+    background-color: red;
+    border: 2px solid;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.yes4:hover{
+    background: #4CAF50;
+}
+
+.yes3{
+    border: 0;
+    padding: 20px 30px 10px;
+    height: 60px;
+    width: 50%;
+    background: scroll;
+    color: white;
+}
+.check{
+    color: white;
+}
+
+.no1{
+    text-decoration: none;
+}
+.no2{
+    text-decoration: none;
+}
+.no3{
+    text-decoration: none;
+}
+.no4{
+    text-decoration: none;
+}
+.hmm{
+    color: red;
+}
+.oh1{
+    background-color: black;
+}
+.oh2{
+    background-color: black;
+}
+.oh3{
+    background-color: black;
+}
+.oh4{
+    color: white;
+}
+.oh5{
+    color: red;
+}
+.oh6{
+    color: blue;
+}
+.oh7{
+    color: blue;
+}
+.oh8{
+    color: lightgreen;
+}
+.oh9{
+    text-decoration: none;
+    color: yellow;
+}
+
+.port0{
+    background-color: black;
+}
+.port1{
+    color: white;
+}
+.port2{
+    color: crimson;
+}
+.port3{
+    text-decoration: none;
+}
+
+.box{
+    color: white;
+    background: scroll;
+    font-size: larger;
+    width: 50%;
+    padding: 16px 10px 6px 10px;
+}
+
+#para{
+    color: blue;
+    background-color: lightgrey;
+    padding: 13px;
+    margin: 20px;
+    border: 10px solid red;
+}
